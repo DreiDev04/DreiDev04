@@ -6,7 +6,7 @@
 
 **Tarlac City, PH**
 
-**[🌐 Portfolio](https://dreidev04.vercel.app)** • **[🐙 GitHub](https://github.com/DreiDev04)** • **[💼 LinkedIn](https://www.linkedin.com/in/john-andrei-tacujan-123ry/)** • **[📧 Email](mailto:tacujan.andrei@gmail.com)**
+**[Portfolio](https://dreidev04.vercel.app)** • **[LinkedIn](https://www.linkedin.com/in/john-andrei-tacujan-123ry/)** • **[Email](mailto:tacujan.andrei@gmail.com)**
 
 </div>
 
