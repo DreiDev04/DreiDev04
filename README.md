@@ -56,7 +56,7 @@ I'm a Full-stack developer passionate about AI/ML integration and building produ
 
 ### 📈 GitHub Activity & Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreiDev04&theme=dark&hide_border=true&side_effects=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DreiDev04&theme=dark&hide_border=true&side_effects=true)
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DreiDev04&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
